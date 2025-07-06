@@ -132,9 +132,7 @@ const App = () => {
 export default App;
 ```
 ## Final Output:
-<video width="450" height="250" controls>
-  <source src="../src/Day3-final_output.mp4" type="video/mp4">
-</video>
+![Alt Text](../src/Day3-final_output.gif)
 
 ---
 © Page by Urvish Patel
