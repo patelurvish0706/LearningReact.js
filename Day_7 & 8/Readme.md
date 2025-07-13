@@ -14,5 +14,7 @@
 
 ### `Locify.sql` to Instablish Database and Tables.
 
+<img src="../src/Day7-myphpadmin.png"/>
+
 ---
 © Page by Urvish Patel
